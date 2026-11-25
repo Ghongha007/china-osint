@@ -22,6 +22,7 @@ Please open the link yourself on the day you add it, and keep to the scope above
 
 ## Related
 
+- [china-state-vessels](https://github.com/OSINT-JOURNO/china-state-vessels): an open, sourced list of Chinese state-linked vessels: research ships, PLA ships, coast guard cutters and militia boats
 - [india-osint](https://github.com/Ghongha007/india-osint): public records and open data for investigating India
 - [russia-osint](https://github.com/Ghongha007/russia-osint): public records and open data for investigating Russia
 - [usa-osint](https://github.com/Ghongha007/usa-osint): public records and open data for investigating the United States
